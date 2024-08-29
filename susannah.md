@@ -1,4 +1,4 @@
-#A great addition to the documentation
+# A great addition to the documentation
 
 Testing out the markdown and git process
 
